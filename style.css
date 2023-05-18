@@ -1,0 +1,32 @@
+body{ background:url("https://static.bangkokpost.com/media/content/20170419/c1_1234721_170419134137_620x413.jpg")
+}
+h1{
+  border:10px solid black;
+  width:500px;
+  background-color:rgb(27, 59, 80);
+  color:rgb(233, 240, 233);
+  font-family: 'Sacramento' serif;
+  font-size:50px;
+}
+button{
+  color:rgb(17, 37, 75);
+  font-size:30px;
+}
+.login:hover{
+  color:rgb(146, 216, 195);
+  cursor:pointer;
+}
+#player_1{
+  border-radius:5px;
+  border-width:5px;
+ border-color:black;
+  font-size:20px;
+}
+#player_2{
+  border-radius:5px;
+  border-width:5px;
+ border-color:black;
+  font-size:20px;
+}
+
+
